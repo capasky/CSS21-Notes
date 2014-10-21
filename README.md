@@ -10,23 +10,23 @@
 6. 指配的属性值、层叠和继承
 7. 媒体类型
 8. 盒（框）模型
-9. 可视化格式模型
-10. 可视化格式模型细节
+9. 视觉格式化模型
+10. 视觉格式化模型细节
 11. 可视效果
 12. 内容生成、自动编号及列表
 13. 分页媒体
 14. 颜色和背景
 15. 字体
-16. 文本
+16. [文本](/notes/16.Text.md)
 17. 表格
 18. 用户接口
 * Appendix A. Aural style sheets
 * Appendix B. Bibliography
 * Appendix C. Changes
-* Appendix D. Default style sheet for HTML 4
+* Appendix D. 用于HTML 4的默认样式表
 * Appendix E. Elaborate description of Stacking Contexts
 * Appendix F. Full property table
 * Appendix G. Grammar of CSS 2.1
 * Appendix I. Index
 
-这个repo仅为个人阅读笔记，若有问题，您可以提交request修正。谢谢。
+这个repo仅为个人阅读笔记，若有问题，您可以提交修正。谢谢。
